@@ -1,4 +1,4 @@
-# GD_ExperimenT - Image Processing In Python
+# GD_Experiment - Image Processing In Python
 a)Image Resizing
 b)Image Rotation
 c)Image Translation

@@ -2,7 +2,8 @@
 a)Image Resizing
 b)Image Rotation
 c)Image Translation
-d)Image Normalization
-e)Edge detection of Image
-f)Image Blurring
-g)Morphological Image Processing
+d)Image Shear
+e)Image Normalization
+f)Edge detection of Image
+g)Image Blurring
+h)Morphological Image Processing
